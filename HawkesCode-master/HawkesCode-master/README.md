@@ -14,7 +14,7 @@ our method is better able to predict event times and learn the underlying networ
 * `ContinuousLoss.m`: Calculates the negative log-likelihood of a dataset according to the Hawkes process and the specified parameters
 * `FormatFigures.m` : Helper function to create nice plots
 
-For more explanation see the paper and my [website](erichall87.github.io)
+For more explanation see the [paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837) and the author's [website](erichall87.github.io)
 
 
 
