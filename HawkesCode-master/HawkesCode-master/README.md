@@ -1,4 +1,7 @@
 # Code for Tracking Dynamic Point Processes on Networks
+
+Disclaimer: These are the paper's demo codes. They are only for private studies, if you accidentally see this, please refer to the [author's website](erichall87.github.io) to check all codes. All rights go to the authors Eric Hall, etc.
+
 This repository contains scripts for implementing the the algorithms described in [Tracking Dynamic Point Processes on Networks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7469837). The repository contains the following files:
 
 * `MismatchMain.m` : Code to compare the results of our method with a known underlying network structure to simply plugging in all the 
