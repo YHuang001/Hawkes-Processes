@@ -1,4 +1,4 @@
-# Code for Tracking Dynamic Point Processes on Networks
+# Codes for the paper "Tracking Dynamic Point Processes on Networks"
 
 Disclaimer: These are the paper's demo codes. They are only for private studies, if you accidentally see this, please refer to the [author's website](erichall87.github.io) to check all codes. All rights go to the authors Eric Hall, etc.
 
